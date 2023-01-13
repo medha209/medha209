@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @medha209
+- 👋 Hi, I’m Medha CHakraborty.
 - I am pursuing B.Tech in Electronics and Communication Engineering.
-- 👀 I’m interested in ...Software
-- 🌱 I’m currently learning ...Java and SQL
+- I’m interested in ...Software 
+- I’m currently learning ...Java and SQL
 - 
 
 <!---
