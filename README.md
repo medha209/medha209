@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Medha CHakraborty.
+- 👋 Hi, I’m Medha Chakraborty.
 - I am pursuing B.Tech in Electronics and Communication Engineering.
 - I’m interested in ...Software 
 - I’m currently learning ...Java and SQL
